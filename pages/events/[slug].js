@@ -1,8 +1,10 @@
+import Layout from '../../components/Layout'
+
 const Event = () => {
   return (
-    <div>
+    <Layout title='Event'>
       <h1>Event</h1>
-    </div>
+    </Layout>
   )
 }
 export default Event
